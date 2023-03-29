@@ -21,19 +21,19 @@
 		<dependency>
 			<groupId>com.launchdarkly</groupId>
 			<artifactId>okhttp-eventsource</artifactId>
-			<version>2.5.0</version>
+			<version>2.7.1</version>
 		</dependency>
 		<dependency>
 			<groupId>com.squareup.okhttp3</groupId>
 			<artifactId>okhttp</artifactId>
-			<version>4.9.3</version>
+			<version>5.0.0-alpha.11</version>
 		</dependency>
 		<dependency>
 			<groupId>module</groupId>
 			<artifactId>producer</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-	</dependencies>
+    </dependencies>
 
 	<build>
 		<plugins>
